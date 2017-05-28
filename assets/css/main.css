@@ -3698,6 +3698,7 @@
 /* Footer */
 
 	#footer {
+		text-align: center;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -3742,6 +3743,7 @@
 
 				#footer > * {
 					width: 100%;
+					margin-left: 0;
 					margin-bottom: 3em;
 				}
 
