@@ -2353,7 +2353,7 @@
 		}
 
 		.icon.style3 {
-			color: #73a7e2;
+			color: #71ddd6;
 		}
 
 		.icon.style4 {
@@ -2361,7 +2361,7 @@
 		}
 
 		.icon.style5 {
-			color: #71ddd6;
+			color: #73a7e2;;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2921,7 +2921,7 @@
 			}
 
 			.statistics li.style3 {
-				background-color: #73a7e2;
+				background-color: #71ddd6;
 			}
 
 			.statistics li.style4 {
@@ -2929,7 +2929,7 @@
 			}
 
 			.statistics li.style5 {
-				background-color: #71ddd6;
+				background-color: #73a7e2;
 			}
 
 			.statistics li strong, .statistics li b {
@@ -3031,7 +3031,7 @@
 			margin-left: 4em;
 			padding: 0.65em;
 			border-radius: 100%;
-			border: solid 0px;
+			border: solid 1px;
 		}
 
 			.spotlight .image img {
@@ -3562,10 +3562,10 @@
 
 		#main header.major h2:after {
 			background-color: #dddddd;
-			background-image: -moz-linear-gradient(90deg, #7ceab7, #73a7e2, #71ddd6);
-			background-image: -webkit-linear-gradient(90deg, #7ceab7, #73a7e2, #71ddd6);
-			background-image: -ms-linear-gradient(90deg, #7ceab7, #73a7e2, #71ddd6);
-			background-image: linear-gradient(90deg, #7ceab7, #73a7e2, #71ddd6);
+			background-image: -moz-linear-gradient(90deg, #7ceab7, #71ddd6, #73a7e2);
+			background-image: -webkit-linear-gradient(90deg, #7ceab7, #71ddd6, #73a7e2);
+			background-image: -ms-linear-gradient(90deg, #7ceab7, #71ddd6, #73a7e2);
+			background-image: linear-gradient(90deg, #7ceab7, #71ddd6, #73a7e2);
 		}
 
 		#main table tbody tr {
