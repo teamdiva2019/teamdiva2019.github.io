@@ -2416,10 +2416,6 @@
 
 /* Image */
 
-	.circular--square {
-		border-radius: 50%;
-	}
-
 	.image {
 		border-radius: 8px;
 		border: 0;
@@ -2471,7 +2467,10 @@
 			.image.main img {
 				width: 100%;
 			}
-
+		
+		.img-circle {
+			border-radius: 50%;
+		}
 
 /* List */
 
