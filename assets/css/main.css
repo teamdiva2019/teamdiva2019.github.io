@@ -2468,6 +2468,9 @@
 				width: 100%;
 			}
 
+			.circular--square {
+  border-radius: 50%;
+}
 /* List */
 
 	ol {
